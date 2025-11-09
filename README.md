@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am currently-Student
-Reach me through-https://www.linkedin.com/in/guruprasaddv
-All my projects available in-https://github.com/Guruprasad-dv
+I am currently-Student<br>
+Reach me through-https://www.linkedin.com/in/guruprasaddv<br>
+All my projects available in-https://github.com/Guruprasad-dv<br>
 
 
 
